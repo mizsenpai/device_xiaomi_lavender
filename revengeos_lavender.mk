@@ -38,9 +38,9 @@ REVENGEOS_BUILDTYPE := OFFICIAL
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="lavender" \
     PRODUCT_NAME="lavender" \
-    PRIVATE_BUILD_DESC="coral-user 11 RQ2A.210405.005 7181113 release-keys"
+    PRIVATE_BUILD_DESC="coral-user 11 RQ2A.210505.002 7246365 release-keys"
 
-BUILD_FINGERPRINT := google/coral/coral:11/RQ2A.210405.005/7181113:user/release-keys
+BUILD_FINGERPRINT := google/coral/coral:11/RQ2A.210505.002/7246365:user/release-keys
 
 # Device identifier
 PRODUCT_NAME := revengeos_lavender
